@@ -22,5 +22,11 @@ this app was built using FLUTTER/DART as the code base. is works majorly using W
 
  --------------MORE FEATURES---------------
  would have love to add a loading screen if there was time.
+ 
+ ---------link to the apk file ( use the app-release.apk or the app.apk )----------------
+https://drive.google.com/drive/folders/1V5yQWZKVL5zxfX2gj_EVzz9jOId6l13n
+
+
+-----------------link to appetize.io ---------------------
 
 
